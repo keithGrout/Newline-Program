@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Newline Program' target in the 'Newline Program' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
